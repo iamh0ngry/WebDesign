@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\yarn\bin\yarn.js cache clean
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;%NVM_HOME%;%NVM_SYMLINK%;C:\Users\FC Instructor\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\FC Instructor\AppData\Local\Programs\Python\Python37\;C:\Users\Administrator\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\FC Instructor\AppData\Local\Microsoft\WindowsApps;C:\Users\FC Instructor\AppData\Local\Programs\Python\Python37;C:\Users\FC Instructor\AppData\Roaming\nvm;C:\Program Files\nodejs
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.6.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\FC Instructor\Documents\WebDesign\package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at C:\Users\FC Instructor\AppData\Roaming\nvm\v18.6.0\node_modules\yarn\lib\cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\FC Instructor\AppData\Roaming\nvm\v18.6.0\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\FC Instructor\AppData\Roaming\nvm\v18.6.0\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  
