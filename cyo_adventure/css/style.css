@@ -1,0 +1,9 @@
+h1 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#prompt {
+    font-weight: bold;
+    color: brown;
+}
